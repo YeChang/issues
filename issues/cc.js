@@ -10,8 +10,11 @@ module.exports = () => {
     },
   });
   const mongoose = require("mongoose");
+  mongoose.connect(`mongodb://127.0.0.1:27017/Test-1`, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  });
 
-  let count = 0;
   const Issue = mongoose.model(
     "Issue",
     new mongoose.Schema({
@@ -20,31 +23,34 @@ module.exports = () => {
       url: String,
       number: Number,
       state: String,
+      comments: [],
     })
   );
   async function store(i, repoName) {
-    let dbName = repoName.split("/")[0] + repoName.split("/")[1];
-    mongoose.connect(`mongodb://127.0.0.1:27017/${dbName}`, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
-
     const res = await http.get(
       `repos/${repoName}/issues?state=all&page=${i}&per_page=100`
     );
-    console.log(res.headers);
+    // console.log(res.data[0]);
+
     for (const item of res.data) {
-      let temp = {
-        title: item.title,
-        body: item.body,
-        url: item.url,
-        number: item.number,
-        state: item.state,
-      };
-      // console.log(temp);
-      console.log(count++);
-      await Issue.create(temp);
+      const comments = await http.get(
+        `repos/${repoName}/issues/${item.number}/comments`
+      );
+      console.log(comments.data);
     }
+    //https://api.github.com/repos/owncloud/android/issues/2970/comments
+    // for (const item of res.data) {
+    //   let temp = {
+    //     title: item.title,
+    //     body: item.body,
+    //     url: item.url,
+    //     number: item.number,
+    //     state: item.state,
+    //   };
+    //   // console.log(temp);
+    //   console.log(count++);
+    //   await Issue.create(temp);
+    // }
   }
   async function doit(repoName) {
     const open = await http.get(
