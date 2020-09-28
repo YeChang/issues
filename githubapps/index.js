@@ -1,4 +1,4 @@
-const token = "f302f535184f9183760bb1714807506a991fc11e";
+const token = "34204a9673d69e86229285248e4597bf57d4d004";
 const fs = require("fs");
 const axios = require("axios");
 const http = axios.create({
@@ -20,14 +20,14 @@ let items = JSON.parse(
 async function doit() {
   // console.log(items);
   // for (const item of items) {
-    // console.log(item);
-    let item = items[0]
-    let url = `/search/issues?q=repo:${item.name}+special+character`;
-    // console.log(url);
-    const res = await http.get(url);
-    item.urls = res.data.items;
-    console.log(res.headers);
-    console.log(res.data.items.length);
+  let item = items[0];
+  console.log(item);
+  let url = `/search/issues?q=repo:${item.name}+special+character`;
+  // console.log(url);
+  const res = await http.get(url);
+  item.urls = res.data.items;
+  console.log(res.headers);
+  console.log(res.data.items.length);
   // }
 }
 
