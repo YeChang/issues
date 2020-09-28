@@ -1,5 +1,5 @@
 const clientId = "4ebcf94414120640164c";
-const clientSecret = "e97a3643456b405ec8d83eaaa4a8deafcf5ccdd0";
+const clientSecret = "0673ca3261c12d393e8f5de6b90168990c1bcbe2";
 const express = require("express");
 const axios = require("axios");
 

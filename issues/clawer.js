@@ -1,5 +1,5 @@
 module.exports = () => {
-  const token = "a21878df4b70339b20b5b57faae53d13d1b72a7f";
+  const token = "b148fadb03ca26f181b179b1c8b42885d4c1c588";
   const fs = require("fs");
   const axios = require("axios");
   const http = axios.create({
@@ -23,28 +23,28 @@ module.exports = () => {
     })
   );
   async function store(i, repoName) {
-    let dbName = repoName.split("/")[0] + repoName.split("/")[1];
-    mongoose.connect(`mongodb://127.0.0.1:27017/${dbName}`, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
+    // let dbName = repoName.split("/")[0] + repoName.split("/")[1];
+    // mongoose.connect(`mongodb://127.0.0.1:27017/${dbName}`, {
+    //   useNewUrlParser: true,
+    //   useUnifiedTopology: true,
+    // });
 
     const res = await http.get(
       `repos/${repoName}/issues?state=all&page=${i}&per_page=100`
     );
     console.log(res.headers);
-    for (const item of res.data) {
-      let temp = {
-        title: item.title,
-        body: item.body,
-        url: item.url,
-        number: item.number,
-        state: item.state,
-      };
-      // console.log(temp);
-      console.log(count++);
-      await Issue.create(temp);
-    }
+    // for (const item of res.data) {
+    //   let temp = {
+    //     title: item.title,
+    //     body: item.body,
+    //     url: item.url,
+    //     number: item.number,
+    //     state: item.state,
+    //   };
+    //   // console.log(temp);
+    //   console.log(count++);
+    //   await Issue.create(temp);
+    // }
   }
   async function doit(repoName) {
     const open = await http.get(
