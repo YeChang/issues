@@ -1,0 +1,5307 @@
+[
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 1
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 2
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 3
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 4
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 5
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 6
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 7
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 8
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 9
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 10
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 11
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 12
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 13
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 14
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 15
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 16
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 17
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 18
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 19
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 20
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 21
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 22
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 23
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 24
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 25
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 26
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 27
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 28
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 29
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 30
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 31
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 32
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 33
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 34
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 35
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 36
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 37
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 38
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 39
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 40
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 41
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 42
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 43
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 44
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 45
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 46
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 47
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 48
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 49
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 50
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 51
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 52
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 53
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 54
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 55
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 56
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 57
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 58
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 59
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 60
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 61
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 62
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 63
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 64
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 65
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 66
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 67
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 68
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 69
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 70
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 71
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 72
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 73
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 74
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 75
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 76
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 77
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 78
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 79
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 80
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 81
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 82
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 83
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 84
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 85
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 86
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 87
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 88
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 89
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 90
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 91
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 92
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 93
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 94
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 95
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 96
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 97
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 98
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 99
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 100
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 101
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 102
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 103
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 104
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 105
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 106
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 107
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 108
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 109
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 110
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 111
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 112
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 113
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 114
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 115
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 116
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 117
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 118
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 119
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 120
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 121
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 122
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 123
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 124
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 125
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 126
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 127
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 128
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 129
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 130
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 131
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 132
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 133
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 134
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 135
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 136
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 137
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 138
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 139
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 140
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 141
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 142
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 143
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 144
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 145
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 146
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 147
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 148
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 149
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 150
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 151
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 152
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 153
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 154
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 155
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 156
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 157
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 158
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 159
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 160
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 161
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 162
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 163
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 164
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 165
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 166
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 167
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 168
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 169
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 170
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 171
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 172
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 173
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 174
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 175
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 176
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 177
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 178
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 179
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 180
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 181
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 182
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 183
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 184
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 185
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 186
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 187
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 188
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 189
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 190
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 191
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 192
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 193
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 194
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 195
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 196
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 197
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 198
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 199
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 200
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 201
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 202
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 203
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 204
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 205
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 206
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 207
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 208
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 209
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 210
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 211
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 212
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 213
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 214
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 215
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 216
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 217
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 218
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 219
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 220
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 221
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 222
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 223
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 224
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 225
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 226
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 227
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 228
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 229
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 230
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 231
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 232
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 233
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 234
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 235
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 236
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 237
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 238
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 239
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 240
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 241
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 242
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 243
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 244
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 245
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 246
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 247
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 248
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 249
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 250
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 251
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 252
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 253
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 254
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 255
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 256
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 257
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 258
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 259
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 260
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 261
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 262
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 263
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 264
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 265
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 266
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 267
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 268
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 269
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 270
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 271
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 272
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 273
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 274
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 275
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 276
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 277
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 278
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 279
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 280
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 281
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 282
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 283
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 284
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 285
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 286
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 287
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 288
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 289
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 290
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 291
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 292
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 293
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 294
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 295
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 296
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 297
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 298
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 299
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 300
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 301
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 302
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 303
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 304
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 305
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 306
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 307
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 308
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 309
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 310
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 311
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 312
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 313
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 314
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 315
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 316
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 317
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 318
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 319
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 320
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 321
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 322
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 323
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 324
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 325
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 326
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 327
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 328
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 329
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 330
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 331
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 332
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 333
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 334
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 335
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 336
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 337
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 338
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 339
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 340
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 341
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 342
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 343
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 344
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 345
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 346
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 347
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 348
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 349
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 350
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 351
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 352
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 353
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 354
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 355
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 356
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 357
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 358
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 359
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 360
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 361
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 362
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 363
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 364
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 365
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 366
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 367
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 368
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 369
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 370
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 371
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 372
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 373
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 374
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 375
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 376
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 377
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 378
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 379
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 380
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 381
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 382
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 383
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 384
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 385
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 386
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 387
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 388
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 389
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 390
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 391
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 392
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 393
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 394
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 395
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 396
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 397
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 398
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 399
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 400
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 401
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 402
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 403
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 404
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 405
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 406
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 407
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 408
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 409
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 410
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 411
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 412
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 413
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 414
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 415
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 416
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 417
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 418
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 419
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 420
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 421
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 422
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 423
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 424
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 425
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 426
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 427
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 428
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 429
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 430
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 431
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 432
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 433
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 434
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 435
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 436
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 437
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 438
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 439
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 440
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 441
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 442
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 443
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 444
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 445
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 446
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 447
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 448
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 449
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 450
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 451
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 452
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 453
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 454
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 455
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 456
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 457
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 458
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 459
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 460
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 461
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 462
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 463
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 464
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 465
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 466
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 467
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 468
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 469
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 470
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 471
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 472
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 473
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 474
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 475
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 476
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 477
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 478
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 479
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 480
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 481
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 482
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 483
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 484
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 485
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 486
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 487
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 488
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 489
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 490
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 491
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 492
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 493
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 494
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 495
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 496
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 497
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 498
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 499
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 500
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 501
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 502
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 503
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 504
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 505
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 506
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 507
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 508
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 509
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 510
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 511
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 512
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 513
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 514
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 515
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 516
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 517
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 518
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 519
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 520
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 521
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 522
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 523
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 524
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 525
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 526
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 527
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 528
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 529
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 530
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 531
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 532
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 533
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 534
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 535
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 536
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 537
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 538
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 539
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 540
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 541
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 542
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 543
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 544
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 545
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 546
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 547
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 548
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 549
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 550
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 551
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 552
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 553
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 554
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 555
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 556
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 557
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 558
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 559
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 560
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 561
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 562
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 563
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 564
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 565
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 566
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 567
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 568
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 569
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 570
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 571
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 572
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 573
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 574
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 575
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 576
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 577
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 578
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 579
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 580
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 581
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 582
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 583
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 584
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 585
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 586
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 587
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 588
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 589
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 590
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 591
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 592
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 593
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 594
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 595
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 596
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 597
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 598
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 599
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 600
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 601
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 602
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 603
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 604
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 605
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 606
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 607
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 608
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 609
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 610
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 611
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 612
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 613
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 614
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 615
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 616
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 617
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 618
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 619
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 620
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 621
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 622
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 623
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 624
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 625
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 626
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 627
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 628
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 629
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 630
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 631
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 632
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 633
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 634
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 635
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 636
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 637
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 638
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 639
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 640
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 641
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 642
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 643
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 644
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 645
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 646
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 647
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 648
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 649
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 650
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 651
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 652
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 653
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 654
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 655
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 656
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 657
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 658
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 659
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 660
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 661
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 662
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 663
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 664
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 665
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 666
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 667
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 668
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 669
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 670
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 671
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 672
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 673
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 674
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 675
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 676
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 677
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 678
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 679
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 680
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 681
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 682
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 683
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 684
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 685
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 686
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 687
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 688
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 689
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 690
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 691
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 692
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 693
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 694
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 695
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 696
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 697
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 698
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 699
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 700
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 701
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 702
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 703
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 704
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 705
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 706
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 707
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 708
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 709
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 710
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 711
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 712
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 713
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 714
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 715
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 716
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 717
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 718
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 719
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 720
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 721
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 722
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 723
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 724
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 725
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 726
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 727
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 728
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 729
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 730
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 731
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 732
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 733
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 734
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 735
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 736
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 737
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 738
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 739
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 740
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 741
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 742
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 743
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 744
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 745
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 746
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 747
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 748
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 749
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 750
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 751
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 752
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 753
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 754
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 755
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 756
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 757
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 758
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 759
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 760
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 761
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 762
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 763
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 764
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 765
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 766
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 767
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 768
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 769
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 770
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 771
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 772
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 773
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 774
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 775
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 776
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 777
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 778
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 779
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 780
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 781
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 782
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 783
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 784
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 785
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 786
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 787
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 788
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 789
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 790
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 791
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 792
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 793
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 794
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 795
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 796
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 797
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 798
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 799
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 800
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 801
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 802
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 803
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 804
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 805
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 806
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 807
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 808
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 809
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 810
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 811
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 812
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 813
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 814
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 815
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 816
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 817
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 818
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 819
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 820
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 821
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 822
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 823
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 824
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 825
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 826
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 827
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 828
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 829
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 830
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 831
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 832
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 833
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 834
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 835
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 836
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 837
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 838
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 839
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 840
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 841
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 842
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 843
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 844
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 845
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 846
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 847
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 848
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 849
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 850
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 851
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 852
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 853
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 854
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 855
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 856
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 857
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 858
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 859
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 860
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 861
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 862
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 863
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 864
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 865
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 866
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 867
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 868
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 869
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 870
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 871
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 872
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 873
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 874
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 875
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 876
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 877
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 878
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 879
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 880
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 881
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 882
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 883
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 884
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 885
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 886
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 887
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 888
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 889
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 890
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 891
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 892
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 893
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 894
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 895
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 896
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 897
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 898
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 899
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 900
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 901
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 902
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 903
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 904
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 905
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 906
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 907
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 908
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 909
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 910
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 911
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 912
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 913
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 914
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 915
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 916
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 917
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 918
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 919
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 920
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 921
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 922
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 923
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 924
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 925
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 926
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 927
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 928
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 929
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 930
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 931
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 932
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 933
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 934
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 935
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 936
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 937
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 938
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 939
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 940
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 941
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 942
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 943
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 944
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 945
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 946
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 947
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 948
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 949
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 950
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 951
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 952
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 953
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 954
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 955
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 956
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 957
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 958
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 959
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 960
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 961
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 962
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 963
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 964
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 965
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/2542",
+		"name": "Fix \"Login fails with \"§\" in password \" ",
+		"id": 966
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2425",
+		"name": "Unable to replace a new sync url(owncloud server address) on my phone",
+		"id": 967
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2367",
+		"name": "After update no files are shown",
+		"id": 968
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2347",
+		"name": "\"Folder doesn't exist anymore\" on OwnCloud account with a space",
+		"id": 969
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2364",
+		"name": "[2.9.3] New release with usernames containing @ hotfix",
+		"id": 970
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/2355",
+		"name": "My owncloud account doesnt sync",
+		"id": 971
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/251",
+		"name": "Picture upload fails with HTC Sensation/HTC One SV/HTC One SV LTE",
+		"id": 972
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1957",
+		"name": "[2.4.0] Release new version",
+		"id": 973
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1218",
+		"name": "As an OC user I want clear badges in my list of files so that they are easy to understand",
+		"id": 974
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1509",
+		"name": "Problem with special characters in passwords",
+		"id": 975
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1559",
+		"name": "#1556 - Toolbar, new Drawer and new Account Manager",
+		"id": 976
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1101",
+		"name": "Ui test folder special character",
+		"id": 977
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/1006",
+		"name": "automation Ui test create folder special characters",
+		"id": 978
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1291",
+		"name": "Unable to log on from Android client",
+		"id": 979
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/1060",
+		"name": "logout when device is locked, or user choose log out",
+		"id": 980
+	},
+	{
+		"url": "https://github.com/owncloud/android/pull/823",
+		"name": "Rename with special character",
+		"id": 981
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/725",
+		"name": "Android issues: no updates and no login possible ",
+		"id": 982
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/35",
+		"name": "app loses owncloud access data when installed in the SD card",
+		"id": 983
+	},
+	{
+		"url": "https://github.com/owncloud/android/issues/65",
+		"name": "V1.3.17: Synchronisation does not work - no files, no folders",
+		"id": 984
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5371",
+		"name": "Change Android NextCloud client so Storage Path has no escaped characters (%3A %2F, etc)",
+		"id": 985
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/3781",
+		"name": "Move user info to modern architecture",
+		"id": 986
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/47",
+		"name": "Fast scroll list view",
+		"id": 987
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/6186",
+		"name": "Uploads from mobile client fail ",
+		"id": 988
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/6656",
+		"name": "Bump markwonVersion from 4.4.0 to 4.5.0",
+		"id": 989
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5416",
+		"name": "creating files with special characters fails",
+		"id": 990
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/126",
+		"name": "In-App Text Editor",
+		"id": 991
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5686",
+		"name": "crash when creating new folders on cloud ",
+		"id": 992
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/5277",
+		"name": "Onlyoffice not opening files with special characters in name",
+		"id": 993
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/5006",
+		"name": "Introduced user account id type",
+		"id": 994
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3197",
+		"name": "Files with special characters in their filename cannot be downloaded",
+		"id": 995
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2833",
+		"name": "Not possible to update password or remove account?",
+		"id": 996
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3701",
+		"name": "problems with umlauts or spaces in directory name",
+		"id": 997
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2553",
+		"name": "Login screen shows every 5 seconds",
+		"id": 998
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2895",
+		"name": "Entering user name for sharing a file gives error",
+		"id": 999
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/3641",
+		"name": "Upload fails since upgrade to 3.5.0RC",
+		"id": 1000
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2173",
+		"name": "key storage error continues e2e",
+		"id": 1001
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/371",
+		"name": "HTTP Basic Authentication",
+		"id": 1002
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/2134",
+		"name": "E2E: Unsupported class: class javax.crypto.spec.IvParameterSpec when encrypting the private key.",
+		"id": 1003
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/1802",
+		"name": "Sort order alpha seems not to be alpha (and is different from the server Web UI)",
+		"id": 1004
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/685",
+		"name": "Directories containing \":\" in their filename are not downloaded (synced) by the client",
+		"id": 1005
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/468",
+		"name": "Nextcloud app doesn't show all files and directories on an external storage",
+		"id": 1006
+	},
+	{
+		"url": "https://github.com/nextcloud/android/issues/259",
+		"name": "user login",
+		"id": 1007
+	},
+	{
+		"url": "https://github.com/nextcloud/android/pull/61",
+		"name": "Multi Select",
+		"id": 1008
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/730",
+		"name": "Escape device app regex queries",
+		"id": 1009
+	},
+	{
+		"url": "https://github.com/duckduckgo/Android/pull/13",
+		"name": "Improve url handling",
+		"id": 1010
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/639",
+		"name": "Deviceid /tracker id does not allow not alphanumeric characters",
+		"id": 1011
+	},
+	{
+		"url": "https://github.com/owntracks/android/issues/255",
+		"name": "auto reconnect?",
+		"id": 1012
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/503",
+		"name": "Password with special chars doesn't come through on Android",
+		"id": 1013
+	},
+	{
+		"url": "https://github.com/pockethub/PocketHub/issues/518",
+		"name": "Newlines are vaporated on Markdown preview.",
+		"id": 1014
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/8027",
+		"name": "Feature/media upload audio files",
+		"id": 1015
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11057",
+		"name": "Issue/10642 material plans and domains",
+		"id": 1016
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/9832",
+		"name": "JSApplicationIllegalArgumentException: Error while updating property 'text' of a view managed by: RCTAztecView",
+		"id": 1017
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10738",
+		"name": "Add Encryption Functionality and Tests",
+		"id": 1018
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/11269",
+		"name": "Issue/11119 search in set parent page",
+		"id": 1019
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/10097",
+		"name": "[Editor] Make sure editor session starts (with `content_type=new`) matches post_created event",
+		"id": 1020
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/7642",
+		"name": "Feature/awesome accessibility color audit",
+		"id": 1021
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/5848",
+		"name": "Login rework: email input screen",
+		"id": 1022
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4653",
+		"name": "Include plans as tags in Helpshift conversations",
+		"id": 1023
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3762",
+		"name": "Take locale into account while sorting languages array",
+		"id": 1024
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/4145",
+		"name": "Issue/3589 menu selection bar db loader",
+		"id": 1025
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/3260",
+		"name": "Nux: Create wpcom account, username field keyboard is for URLs",
+		"id": 1026
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/pull/3063",
+		"name": "Stats - Add Latest Post Summary to Insights",
+		"id": 1027
+	},
+	{
+		"url": "https://github.com/wordpress-mobile/WordPress-Android/issues/90",
+		"name": "Post content is truncated on special characters",
+		"id": 1028
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/14",
+		"name": "Transform string into URL strings",
+		"id": 1029
+	},
+	{
+		"url": "https://github.com/facebook/facebook-android-sdk/issues/29",
+		"name": "fb wall posting",
+		"id": 1030
+	},
+	{
+		"url": "https://github.com/openid/AppAuth-Android/issues/337",
+		"name": "client_secret_basic header value invalid when special characters are used",
+		"id": 1031
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2319",
+		"name": "Make changes in SignUp, Login, Password Reset page",
+		"id": 1032
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/2339",
+		"name": "feat: Implement password validation",
+		"id": 1033
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/issues/2338",
+		"name": "Add password validation during signup.",
+		"id": 1034
+	},
+	{
+		"url": "https://github.com/fossasia/susi_android/pull/1620",
+		"name": "Anonymize feedback and add unit tests for the method added to the UtilModel (Fixed #1615)",
+		"id": 1035
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/77",
+		"name": "Special character issue",
+		"id": 1036
+	},
+	{
+		"url": "https://github.com/fetlife/android/pull/80",
+		"name": "Menu styling",
+		"id": 1037
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1210",
+		"name": "Hardware Keyboard Mapping",
+		"id": 1038
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1634",
+		"name": "Termux doesn't respect \"show virtual keyboard\" setting",
+		"id": 1039
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1766",
+		"name": "Missing echo of alphabetic keyboard strokes. ",
+		"id": 1040
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/250",
+		"name": "ChromeOS set to Dvorak, Termux uses Qwerty",
+		"id": 1041
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/686",
+		"name": "Characters are not echoed on Samsung keyboard",
+		"id": 1042
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1483",
+		"name": "Characters not displaying ",
+		"id": 1043
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1591",
+		"name": "Make swipe up alternative keys customizable",
+		"id": 1044
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/728",
+		"name": "[Feature Request] arrow keys, CTRL, ALT, ESC, exit terminal, font colour, etc.",
+		"id": 1045
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/1048",
+		"name": "New AddonApp: Termux:URI that sends commands to termux when a `termux:command` URI is opened",
+		"id": 1046
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/61",
+		"name": "Add better support for root.",
+		"id": 1047
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/650",
+		"name": "add support of configurable extra keys",
+		"id": 1048
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/678",
+		"name": "Pasting via long press causes issues in some programs",
+		"id": 1049
+	},
+	{
+		"url": "https://github.com/termux/termux-app/pull/788",
+		"name": "Updated configurable keys",
+		"id": 1050
+	},
+	{
+		"url": "https://github.com/termux/termux-app/issues/497",
+		"name": "Zsh failing with unsetopt CASE_GLOB (case-insensitive glob matching)",
+		"id": 1051
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3641",
+		"name": "Evaluate the usages of the `search` API for category search in the app",
+		"id": 1052
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/3179",
+		"name": "Make category search non case-sensitive",
+		"id": 1053
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/3643",
+		"name": "Sorting the languages under translate in the about section",
+		"id": 1054
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/2291",
+		"name": "Upload limit: Display helpful error when input is malformed",
+		"id": 1055
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/1600",
+		"name": "Notifications Activity crashes",
+		"id": 1056
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1766",
+		"name": "Handle special characters in notification title",
+		"id": 1057
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1856",
+		"name": "UploadController: Added support for using author names. Fixes #1707.",
+		"id": 1058
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/pull/1872",
+		"name": "Added an onclick to the middle text of a Notification",
+		"id": 1059
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/85",
+		"name": "Feedback on how my pictures get used: Statistics, barnstars, light gamification",
+		"id": 1060
+	},
+	{
+		"url": "https://github.com/commons-app/apps-android-commons/issues/217",
+		"name": "\"This image will be licensed under CCu00A0\"",
+		"id": 1061
+	}
+]
